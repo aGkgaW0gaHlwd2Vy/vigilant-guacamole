@@ -1,0 +1,11 @@
+{
+   "error" : null,
+   "error_id" : null,
+   "success" : true,
+   "value" : {
+      "EnergyLeft" : 67676767,
+      "MaxEnergyFromSubscriptions" : 67676767,
+      "NextSubscriptionEnergyRechargeAt" : null,
+      "OutputAudioEnabled" : true
+   }
+}
