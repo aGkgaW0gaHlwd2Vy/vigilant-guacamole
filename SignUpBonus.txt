@@ -1,0 +1,5 @@
+{
+   "MaxFreeItemsPrice" : 0,
+   "MinFreeItemsPrice" : 0,
+   "RRPlusSignUpBonusId" : 3
+}
