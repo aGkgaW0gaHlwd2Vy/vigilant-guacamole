@@ -1,0 +1,32 @@
+{
+   "Balance" : 585,
+   "BalanceType" : -1,
+   "BalanceUpdates" : [
+      {
+         "Data" : [
+            {
+               "AvatarItemDesc": "7a730848-ab20-445d-b416-1a72cab49324,_psc7WCgOk2JzRQwuFAqNw,,",
+               "AvatarItemType" : 0,
+               "BalanceType" : 0,
+               "ConsumableItemDesc" : "",
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : "",
+               "EquipmentPrefabName" : "",
+               "FromPlayerId" : null,
+               "GiftContext" : 110000,
+               "GiftRarity" : 0,
+               "Id" : 273542,
+               "Level" : 0,
+               "Message" : "A gift for you <3",
+               "Platform" : -1,
+               "PlatformsToSpawnOn" : -1,
+               "Xp" : 4
+            }
+         ],
+         "UpdateResponse" : 0
+      }
+   ],
+   "CurrencyType" : 2,
+   "Platform" : -1
+}
